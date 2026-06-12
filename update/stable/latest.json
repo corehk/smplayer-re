@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "version": "0.0.17",
+  "tag": "v0.0.17",
+  "html_url": "https://github.com/corehk/smplayer-re/releases/tag/v0.0.17",
+  "notes": "SMPlayer v0.0.17",
+  "mandatory": false,
+  "platforms": {
+    "windows-x64": {
+      "name": "smplayer-setup-0.0.17-x64.exe",
+      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.17/smplayer-setup-0.0.17-x64.exe",
+      "size": 44598483,
+      "sha256": "ad6f7079ef84d43d771d2a9ace5f198f339712d7f70aa9d75cd6a85865657c7e"
+    }
+  },
+  "assets": [
+    {
+      "name": "smplayer-setup-0.0.17-x64.exe",
+      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.17/smplayer-setup-0.0.17-x64.exe",
+      "size": 44598483,
+      "sha256": "ad6f7079ef84d43d771d2a9ace5f198f339712d7f70aa9d75cd6a85865657c7e"
+    }
+  ]
+}
