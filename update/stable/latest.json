@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "version": "0.0.20",
-  "tag": "v0.0.20",
-  "html_url": "https://github.com/corehk/smplayer-re/releases/tag/v0.0.20",
-  "notes": "SMPlayer v0.0.20",
+  "version": "0.0.1",
+  "tag": "v0.0.1",
+  "html_url": "https://github.com/corehk/smplayer-re/releases/tag/v0.0.1",
+  "notes": "SMPlayer v0.0.1",
   "mandatory": false,
   "platforms": {
     "windows-x64": {
-      "name": "smplayer-setup-0.0.20-x64.exe",
-      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.20/smplayer-setup-0.0.20-x64.exe",
-      "size": 44635237,
-      "sha256": "2015586506cdc29b7646488ef156eecb3a63a089b3ee69ca94f96f63957f908d"
+      "name": "smplayer-setup-0.0.1-x64.exe",
+      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.1/smplayer-setup-0.0.1-x64.exe",
+      "size": 44662327,
+      "sha256": "d266eea3ca93b6b3a60a29aa46d5e5f3c537832d174bc0dc19f3be907594f7a9"
     }
   },
   "assets": [
     {
-      "name": "smplayer-setup-0.0.20-x64.exe",
-      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.20/smplayer-setup-0.0.20-x64.exe",
-      "size": 44635237,
-      "sha256": "2015586506cdc29b7646488ef156eecb3a63a089b3ee69ca94f96f63957f908d"
+      "name": "smplayer-setup-0.0.1-x64.exe",
+      "browser_download_url": "https://github.com/corehk/smplayer-re/releases/download/v0.0.1/smplayer-setup-0.0.1-x64.exe",
+      "size": 44662327,
+      "sha256": "d266eea3ca93b6b3a60a29aa46d5e5f3c537832d174bc0dc19f3be907594f7a9"
     }
   ]
 }
